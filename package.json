@@ -1,5 +1,5 @@
 {
-  "name": "Zalioos💚",
+  "name": "Zalioos",
   "version": "1.1.2",
   "description": "S2Ş SERHAT BOT",
   "main": "index.js",
@@ -71,4 +71,3 @@
     "yargs": "^17.0.1",
     "yt-search": "^2.9.0"
 } 
- }
