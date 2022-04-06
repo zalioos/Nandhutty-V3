@@ -1,8 +1,8 @@
 {
-"name": "Nandhutty V3",
-  "description": "Lightweight WhatsApp Bot",
-  "repository": "https://github.com/Ajmal-Achu/Nandhutty-V3",
-  "logo": "https://telegra.ph/file/a5476198bcf35794b7953.jpg",
+"isim" : "🍁Zalios Bot🍁" ,
+  "açıklama" : "🍁Zalios Bot🍁" ,
+  "depo" : "447451220190" ,
+  "logo" : "https://images.app.goo.gl/kCMw4P7ygorutoAJ9" ,
   "keywords": ["bot", "whatsapp", "whatsapp-bot"],
 
     "buildpacks": [
